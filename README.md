@@ -1,2 +1,2 @@
 # Concrete-Repository-UCI
-Applying Machine Learning to the UCI concrete repository to predict the compressive strength of concrete
+Aplicando Machine Learning ao repositório da UCI para prever a resistência à compressão do concreto (PT)
