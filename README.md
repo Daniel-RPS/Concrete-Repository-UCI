@@ -12,6 +12,8 @@ O conjunto de dados consiste em 1030 instâncias com 9 atributos e não possui v
 
 Foram utilizados 3 medidas (RMSE - Root Mean Square Error, R2, MAE - Mean Absolute Error ) para analisar os resultados gerados pelos modelos.
 
+Além disso, foi experimentado o Método de Elbow para analisar e descobrir a quantidade ideal de clusters neste dataset.
+
 Fontes:
 
 1 - https://towardsdatascience.com/concrete-compressive-strength-prediction-using-machine-learning-4a531b3c43f3
