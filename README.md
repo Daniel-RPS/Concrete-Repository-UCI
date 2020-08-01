@@ -22,3 +22,4 @@ Fontes:
 
 3 - https://www.kaggle.com/pavanraj159/predicting-compressive-strength-of-concrete
 
+4 - https://minerandodados.com.br/algoritmo-k-means-python-passo-passo/
