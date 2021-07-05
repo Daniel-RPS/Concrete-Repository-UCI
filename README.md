@@ -10,9 +10,9 @@ Objetivo: Analisar o conjunto de dados de resistência à compressão do concret
 Descrição do conjunto de dados:
 O conjunto de dados consiste em 1030 instâncias com 9 atributos e não possui valores ausentes. Existem 8 variáveis de entrada e 1 variável de saída. Sete variáveis de entrada representam a quantidade de matéria-prima (medida em kg / m³) e uma representa a idade (em dias). A variável alvo é a resistência à compressão do concreto medida em (MPa - Mega Pascal).
 
-Foram utilizados 3 medidas (RMSE - Root Mean Square Error, R2, MAE - Mean Absolute Error ) para analisar os resultados gerados pelos modelos.
+Foram utilizados 3 medidas (RMSE - Root Mean Square Error, R2, MAE - Mean Absolute Error) ara analisar os resultados gerados pelos modelos.
 
-Além disso, foi experimentado o Método de Elbow para analisar e descobrir a quantidade ideal de clusters neste dataset.
+O dataset também foi útil para trabalhar com clusterização, prevendo a qual classe pertencerá cada compressão de concreto. Para isso, foi utilizado o método Elbow para determinar número ideal de clusters
 
 Fontes:
 
